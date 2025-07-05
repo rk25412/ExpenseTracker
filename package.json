@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "tw": "npx @tailwindcss/cli -i ./ExpenseTracker.Blazor/wwwroot/input.css -o ./ExpenseTracker.Blazor/wwwroot/app.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
